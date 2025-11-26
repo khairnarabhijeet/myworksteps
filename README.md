@@ -1,9 +1,9 @@
+Part 1 
+create account  in Lovable ➜ https://wl.tools/Lovable 
+Prepare App requirement documents : https://app.gravitywrite.com/content/
 
-♥️ Document Generator ➜ https://app.gravitywrite.com/content/...
 
-⚡ Lovable ➜ https://wl.tools/Lovable  
-
-🔥 Github ➜ https://github.com/
+Github ➜ https://github.com/
 
 🏆 Supabase ➜ https://supabase.com/
 
