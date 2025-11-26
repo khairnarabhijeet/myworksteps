@@ -1,5 +1,4 @@
-# myworksteps
-details 
+
 ♥️ Document Generator ➜ https://app.gravitywrite.com/content/...
 
 ⚡ Lovable ➜ https://wl.tools/Lovable  
